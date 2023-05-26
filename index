@@ -1,7 +1,6 @@
 <img src="2023eventposter.jpg" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="participate" title="participate" href="https://docs.google.com/forms/d/e/1FAIpQLSfnL5GD55qLsAPFW_ItVGV2-nnwOJXRw4cQ92ahX1Ke2ir91A/viewform" coords="575,664,259,689" shape="rect">
-    <area target="" alt="cancel" title="cancel" href="https://docs.google.com/forms/d/e/1FAIpQLSdZC0qcwQQU7QwuRefos9s0ADyk97269tSXuCFfFJ_3fo37QQ/viewform" coords="462,952,87,980" shape="rect">
+    <area target="_blank" alt="participate" title="participate" href="https://docs.google.com/forms/d/e/1FAIpQLSfnL5GD55qLsAPFW_ItVGV2-nnwOJXRw4cQ92ahX1Ke2ir91A/viewform" coords="575,664,259,689" shape="rect">
+    <area target="_blank" alt="cancel" title="cancel" href="https://docs.google.com/forms/d/e/1FAIpQLSdZC0qcwQQU7QwuRefos9s0ADyk97269tSXuCFfFJ_3fo37QQ/viewform" coords="462,952,87,980" shape="rect">
 </map>
-</img>
